@@ -47,7 +47,7 @@
 <h3> GitHub analytics </h3>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=juan-araujob&show_icons=true&theme=midnight-purple" height="150px"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-araujob&layout=compact&theme=midnight-purple" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-araujob&layout=compact&hide=html&theme=midnight-purple" height="150px">
   </div>
 </div>
 
